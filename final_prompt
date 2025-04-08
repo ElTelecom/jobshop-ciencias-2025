@@ -1,0 +1,82 @@
+# Submission – Air Apps Landing Page Prompt Challenge
+
+**Nome:** João Matias  
+**Universidade:** Faculdade de Ciências da Universidade de Lisboa (FCUL)
+
+---
+
+## ✨ Final Prompt
+
+You are a top-tier UI/UX designer with a deep understanding of visual storytelling, branding, and user psychology. Your task is to design a landing page for "Air Apps" — an innovative tech platform that offers smart, lightweight web apps with elegant simplicity and futuristic performance.
+
+Your output should present a visually stunning and emotionally compelling landing page layout that could rival award-winning designs on Awwwards or Behance.
+
+Please describe the page in **structured detail**, including:
+
+---
+
+🔷 **Visual Theme & Mood**
+- Overall aesthetic: ultra-modern, sleek, and clean with generous white space.
+- Emotional tone: innovative, light, empowering, and intuitive.
+- Color palette: gradient sky blue (#2DBFFF) to soft lavender (#E6E6FA) with accents of deep navy (#1A1A40) and silver white (#F9F9F9).
+- Use glowing and glassmorphism effects subtly across elements to evoke airiness and tech elegance.
+
+---
+
+📐 **Section-by-Section Layout (Top to Bottom)**
+
+1. **Hero Section**
+   - Full-screen background with animated particles or air-flow lines.
+   - Bold tagline (example: “Breathe Simplicity into Your Digital Life.”)
+   - Subheading that explains Air Apps in one sentence.
+   - CTA button (“Get Started Free”) with floating hover effect.
+   - Side mockup of a floating mobile app UI (semi-transparent glass effect).
+
+2. **Features Section**
+   - Three or four cards/icons in a horizontal layout.
+   - Each with an animated icon, a bold title, and short copy.
+   - Hover interactions with gentle elevation and glow.
+
+3. **Interactive Demo Section**
+   - Simulated app interface where users can "preview" an app workflow.
+   - Use a dark mode canvas with glowing frames.
+
+4. **Testimonials**
+   - Carousel with profile images in circular frames, short quotes.
+   - Background softly animated (floating or scrolling clouds).
+
+5. **Plans & Pricing**
+   - Clean pricing table with free, pro, and enterprise tiers.
+   - Glass cards with hovering effects and toggle between monthly/yearly.
+
+6. **FAQ Section**
+   - Accordion-style layout with smooth transitions.
+   - Add air-themed icons per question.
+
+7. **Call to Action**
+   - Full-width banner with bold text and dual CTAs (Get Started | Explore Features).
+
+8. **Footer**
+   - Air Apps logo, social icons with hover color transitions, email signup box, and legal links.
+   - Subtle animated cloud overlay moving left to right.
+
+---
+
+🔤 **Typography & Copywriting Style**
+- Headings: Elegant geometric sans-serif (e.g., Montserrat, Poppins).
+- Body text: Clean and legible (e.g., Inter or Open Sans).
+- Voice: Friendly, inspiring, confident — use action verbs and avoid fluff.
+- Avoid tech jargon; focus on clarity and emotional connection.
+
+---
+
+💡 **Micro-interactions & Animation Ideas**
+- Buttons with subtle bounce and glow on hover.
+- Parallax effects on scroll.
+- Lazy-loading of sections with fade or slide-in animations.
+- Mouse-movement background shift in the hero section.
+
+
+## 🔗 Claude Conversation Link
+
+https://claude.ai/share/64351242-9cbd-4bae-884c-36e30ab5a4e8
